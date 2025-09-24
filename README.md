@@ -1,4 +1,4 @@
-[![Foto Preview](preview/project-1131.avif)](https://project-1131-production.up.railway.app/)
+[![Foto Preview](preview/project-1131.avif)](https://20essentials.github.io/project-1131/)
 
 <div align="center" style="display: flex; justify-content: center;">
   <a  href="https://github.com/20essentials/project-1130" target="_blank">&#8592;</a>
